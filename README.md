@@ -1,30 +1,25 @@
-# Cocktail catalog app
+# Cocktail Catalog App
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+Bienvenido al catálogo de cócteles. Esta aplicación te permite explorar, buscar y gestionar recetas de cócteles de manera sencilla.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/aldaricses-projects/v0-fork-cocktail-catalog-app)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/S07tKMRYoyl)
+## Características
 
-## Overview
+- Buscar cócteles por nombre o letra.
+- Cambiar tema a claro/oscuro.
+- Interfaz intuitiva y fácil de usar.
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+## Instalación
 
-## Deployment
+1. Clona el repositorio:
+  ```bash
+  git clone https://github.com/aldaricse/cocktail-catalog-app.git
+  ```
+2. Instala las dependencias:
+  ```bash
+  npm install
+  ```
+3. Inicia la aplicación:
+  ```bash
+  npm run dev
+  ```
 
-Your project is live at:
-
-**[https://vercel.com/aldaricses-projects/v0-fork-cocktail-catalog-app](https://vercel.com/aldaricses-projects/v0-fork-cocktail-catalog-app)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/projects/S07tKMRYoyl](https://v0.app/chat/projects/S07tKMRYoyl)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
